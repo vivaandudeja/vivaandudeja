@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivaandudeja
+- 👋 Hi, I’m Vivaan Dudeja
 - 👀 I’m interested in data science and analysis.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing... for now.

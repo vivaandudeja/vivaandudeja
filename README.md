@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and analysis.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing... for now.
-- 📫 How to reach me: vivaandudeja@gmail.com, 404-948-8804, dudejav29@altamontschool.org
+- 📫 How to reach me: vivaandudeja@gmail.com
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I'm 13 years old.
 
